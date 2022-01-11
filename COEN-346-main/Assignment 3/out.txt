@@ -1,0 +1,29 @@
+Time 1, Process 1, started
+Time 1, Process 1, resumed
+Time 2, Process 1, paused
+Time 2, Process 2, started
+Time 2, Process 2, resumed
+Time 3, Process 2, paused
+Time 3, Process 3, started
+Time 3, Process 3, resumed
+Time 4, Process 3, paused
+Time 4, Process 3, finished
+Time 4, Process 1, resumed
+Time 5, Process 1, paused
+Time 5, Process 2, resumed
+Time 6, Process 2, paused
+Time 6, Process 1, resumed
+Time 7, Process 1, paused
+Time 7, Process 2, resumed
+Time 8, Process 2, paused
+Time 8, Process 2, finished
+Time 8, Process 1, resumed
+Time 9, Process 1, paused
+Time 9, Process 1, resumed
+Time 10, Process 1, paused
+Time 10, Process 1, finished
+-------------------------------------
+Waiting Times:
+Process 1: 4
+Process 2: 4
+Process 3: 2
